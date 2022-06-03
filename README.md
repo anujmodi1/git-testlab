@@ -1,2 +1,3 @@
 # git-testlab
-git test lab for learning
+
+This is for tutorial purpose for git and github
